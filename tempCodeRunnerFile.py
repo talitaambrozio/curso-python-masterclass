@@ -1,2 +1,2 @@
-del elemento['periodo']
-# print(elemento)
+print(f'\nMétodo read():\n')
+# print(manipulador.read())
